@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Currently a Data Science Fellow at Metis, a 12-week bootcamp located in San Francisco.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kevinkldu@gmail.com](mailto:kevinkldu@gmail.com)
